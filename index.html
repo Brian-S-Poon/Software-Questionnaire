@@ -2,95 +2,109 @@
 <html>
     <head>
         <title>Software Questionnaire</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
 
     <body>
-        <h1>Software Questionnaire <hr></h1>
+        <header id="main-header">
+            <div class="main-header">
+                <h1>Software Questionnaire</h1>
+            </div>
+        </header>
+        
+        <div class="container">
+            <!-- Create form -->
+            <form action="">
+                <!-- Name -->
+                <div class="info-block">
+                    <label for="">Name</label>
+                    <input type="text" name="fullName" placeholder="Enter first and last name" style="width:100%;height:30px;font-size:30;" >
+                </div>
+                <br>
+
+                <!-- Email -->
+                <div class="info-block">
+                    <label for="">Email</label>
+                    <input type="text" name="email" placeholder="Enter your school email" style="width:100%;height: 30px;">
+                </div>
+                <br>
+
+                <!-- Year -->
+                <div class="info-block">
+                    <label for="">Year</label><br>
+                    <select name="year" id="" style="width:100%;height: 30px;">
+                        <option value="Freshman">Freshman</option>
+                        <option value="Freshman">Sophomore</option>
+                        <option value="Freshman">Junior</option>
+                        <option value="Freshman">Senior</option>
+                        <option value="Freshman">5+</option>
+                    </select>
+                </div>
+                <br>
+
+                <!-- Major -->
+                <div class="info-block">
+                    <label for="">Major</label><br>
+                    <input type="text" name="major" placeholder="Enter your major" style="width:100%;height: 30px;">
+                </div>
+                <br>
+
+                <!-- Gender -->
+                <div class="info-block">
+                    <label for="">Gender</label>
+                    <select name="gender" id="" style="width:100%;height: 30px;">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <br>
+
+                <!-- Languages and Frameworks known -->
+                <div>
+                    <div class="info-block">
+                        <label for="">Languages and Frameworks known <small>(Check all that apply)</small></label>
+    
+                        <br>
+                        <label for=""><input type="checkbox">Java</label>
+                        <br>
+                        <label for=""><input type="checkbox">C</label>
+                        <br>
+                        <label for=""><input type="checkbox">C++</label>
+                        <br>
+                        <label for=""><input type="checkbox">C#</label>
+                        <br>
+                        <label for=""><input type="checkbox">Python</label>
+                    
+                        <br>
+                        <label for=""><input type="checkbox">JavaScript</label>
+                        <br>
+                        <label for=""><input type="checkbox">React</label>
+                        <br>
+                        <label for=""><input type="checkbox">Angular</label>
+                        <br>
+                        <label for=""><input type="checkbox">Django</label>
+                        <br>
+                        <label for=""><input type="checkbox">Spring</label>
+                    </div>
+
+                </div>
+                <br>
+
+                <!-- Additional Comments -->
+                <div class="info-block">
+                    <label for="">Additional Comments</label>
+                    <textarea name="message" id="" placeholder="Enter other technologies" style="width:100%;height: 30px;"></textarea>
+                </div>
+                <br>
+
+                <!-- Submit -->
+                <input type="submit" class="button">
+        
+            </form> <!-- end form-->
+
+        </div> <!-- end container -->
        
-        <!-- Create form -->
-        <form action="">
-            <!-- Name -->
-            <div>
-                <label for="">Name</label>
-                <input type="text" name="fullName" placeholder="Enter first and last name">
-            </div>
-            <br>
-
-            <!-- Email -->
-            <div>
-                <label for="">Email</label>
-                <input type="text" name="email" placeholder="Enter your school email">
-            </div>
-            <br>
-
-            <!-- Year -->
-            <div>
-                <label for="">Year</label>
-                <select name="year" id="">
-                    <option value="Freshman">Freshman</option>
-                    <option value="Freshman">Sophomore</option>
-                    <option value="Freshman">Junior</option>
-                    <option value="Freshman">Senior</option>
-                    <option value="Freshman">5+</option>
-                </select>
-            </div>
-            <br>
-
-            <!-- Major -->
-            <div>
-                <label for="">Major</label>
-                <input type="text" name="major" placeholder="Enter your major">
-            </div>
-            <br>
-
-            <!-- Gender -->
-            <div>
-                <label for="">Gender</label>
-                <select name="gender" id="">
-                    <option value="male">Male</option>
-                    <option value="female">Female</option>
-                    <option value="other">Other</option>
-                </select>
-            </div>
-            <br>
-
-            <!-- Languages and Frameworks known -->
-            <div>
-                <label for="">Languages and Frameworks known <small>(Check all that apply)</small></label>
-                <br>
-
-                <label for=""><input type="checkbox">Java</label>
-                <br>
-                <label for=""><input type="checkbox">C</label>
-                <br>
-                <label for=""><input type="checkbox">C++</label>
-                <br>
-                <label for=""><input type="checkbox">C#</label>
-                <br>
-                <label for=""><input type="checkbox">Python</label>
-                <br>
-                <label for=""><input type="checkbox">JavaScript</label>
-                <br>
-                <label for=""><input type="checkbox">React</label>
-                <br>
-                <label for=""><input type="checkbox">Angular</label>
-                <br>
-                <label for=""><input type="checkbox">Django</label>
-                <br>
-                <label for=""><input type="checkbox">Spring</label>
-            </div>
-            <br>
-
-            <!-- Additional Comments -->
-            <div>
-                <label for="">Additional Comments</label>
-                <textarea name="message" id="" placeholder="Enter other technologies"></textarea>
-            </div>
-            <br>
-
-            <!-- Submit -->
-            <input type="submit">
-       
-        </form>
+        
     </body>
 </html>

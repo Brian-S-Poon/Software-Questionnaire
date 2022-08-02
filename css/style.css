@@ -1,0 +1,50 @@
+.main-header{
+    text-align: center;
+}
+
+body{
+    background-color: #05c46b;
+    color:black;
+
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container{
+    padding: 20px 20px;
+    background-color:aliceblue;
+    width: 33.3%;
+    margin: auto;
+   
+    text-align: center;
+    border: 1px solid red;
+   
+}
+
+.info-block{
+    width:95%;
+    margin:auto;
+    border: 1px solid blue;
+    font-size: 18px;
+    text-align: left;
+    padding: 10px;  
+}
+
+.button{
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+}
+
+.button:hover{
+    background: green;
+    color:white;
+}
+
+.language-header{
+   width: 100%;
+   font-size: 18px;
+   border: 1px solid purple;
+}
