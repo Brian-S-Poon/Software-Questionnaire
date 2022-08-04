@@ -11,6 +11,11 @@ their knowledge of programming languages and framework technologies.
 ## Demo
 
 Insert gif or link to demo
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+
+Your browser does not support the video tag.
+</video>
 
 ## Lessons Learned
 
