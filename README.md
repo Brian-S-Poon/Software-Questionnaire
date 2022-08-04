@@ -42,6 +42,7 @@ In this project, I learned how to overcome creating docker image and docker depl
 In addition, I improved my knowledge of HTML, CSS, Docker.
 
 ## Screenshots
+
 ### Microsoft Azure Container Registry
 ![](images/Azure_Deployment.PNG)
 
