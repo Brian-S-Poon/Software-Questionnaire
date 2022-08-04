@@ -42,8 +42,8 @@ In this project, I learned how to overcome creating docker image and docker depl
 In addition, I improved my knowledge of HTML, CSS, Docker.
 
 ## Screenshots
-Microsoft Azure Container Registry
+### Microsoft Azure Container Registry
 ![](images/Azure_Deployment.PNG)
 
-Amazon Elastic Container Registry
+### Amazon Elastic Container Registry
 ![](images/ECR_Deployment.PNG)
