@@ -10,9 +10,8 @@ their knowledge of programming languages and framework technologies.
 
 ## Demo
 
-<!-- <video src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4"></video> -->
+<video src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4"></video>
 
-<video src="Software-Questionnaire/images/demo.mp4"></video>
 ## Lessons Learned
 
 The 1st challenge I came across was not having Docker commands installed on my Amazon EC2 Linux instance.
@@ -44,8 +43,5 @@ In addition, I improved my knowledge of HTML, CSS, Docker.
 
 ## Screenshots
 
-![](Artemis/images/Artemis_Screenshot.png)
-![](Artemis/images/Artemis_Screenshot.png)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![](Software-Questionnaire/images/Azure_Deployment.png)
+![](Software-Questionnaire/images/ECR_Deployment.png)
