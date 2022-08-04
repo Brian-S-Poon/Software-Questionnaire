@@ -17,6 +17,8 @@ Insert gif or link to demo
 Your browser does not support the video tag.
 </video>
 
+<video src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4"></video>
+
 ## Lessons Learned
 
 The 1st challenge I came across was not having Docker commands installed on my Amazon EC2 Linux instance.
