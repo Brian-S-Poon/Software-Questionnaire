@@ -43,5 +43,5 @@ In addition, I improved my knowledge of HTML, CSS, Docker.
 
 ## Screenshots
 
-![](Software-Questionnaire/images/Azure_Deployment.png)
-![](Software-Questionnaire/images/ECR_Deployment.png)
+![](Software-Questionnaire/images/Azure_Deployment.PNG)
+![](Software-Questionnaire/images/ECR_Deployment.PNG)
