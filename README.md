@@ -4,11 +4,9 @@
 A static webpage that gathers information from undergraduates on 
 their knowledge of programming languages and framework technologies.
 
-
 ## Demo
 
 Insert gif or link to demo
-
 
 ## Features
 - Uses bright green CSS styling to improve user perception and experience.
@@ -42,6 +40,7 @@ I haven't overcome this challenge yet, but I believe it must be a directory path
 
 In this project, I learned how to overcome creating docker image and docker deployment issues.
 In addition, I improved my knowledge of HTML, CSS, Docker.
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
