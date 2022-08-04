@@ -10,15 +10,9 @@ their knowledge of programming languages and framework technologies.
 
 ## Demo
 
-Insert gif or link to demo
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4" type="video/mp4">
+<!-- <video src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4"></video> -->
 
-Your browser does not support the video tag.
-</video>
-
-<video src="https://user-images.githubusercontent.com/86692163/182771971-7cc08d20-030e-4550-a3d0-13ac1594af6d.mp4"></video>
-
+<video src="Software-Questionnaire/images/demo.mp4"></video>
 ## Lessons Learned
 
 The 1st challenge I came across was not having Docker commands installed on my Amazon EC2 Linux instance.
@@ -49,6 +43,9 @@ In this project, I learned how to overcome creating docker image and docker depl
 In addition, I improved my knowledge of HTML, CSS, Docker.
 
 ## Screenshots
+
+![](Artemis/images/Artemis_Screenshot.png)
+![](Artemis/images/Artemis_Screenshot.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
