@@ -5,7 +5,7 @@ A static webpage that gathers information from undergraduate students on
 their knowledge of programming languages and framework technologies.
 
 ## Features
-- Uses bright green CSS styling to improve user perception and experience.
+- Used bright green CSS styling to improve user perception and experience.
 - Packaged a Dockerfile with Apache HTTP Server and created a Docker image to deploy on Amazon Elastic Container Registry and Microsoft Azure Container Registry.
 
 ## Demo
