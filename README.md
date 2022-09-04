@@ -1,7 +1,7 @@
 
 # Software Questionnaire
 
-A static webpage that gathers information from undergraduates on 
+A static webpage that gathers information from undergraduate students on 
 their knowledge of programming languages and framework technologies.
 
 ## Features
